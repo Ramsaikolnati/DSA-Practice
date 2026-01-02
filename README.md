@@ -18,8 +18,13 @@ The goal is to improve my problem-solving skills, coding efficiency, and prepare
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->
