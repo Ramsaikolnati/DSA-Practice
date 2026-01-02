@@ -11,3 +11,15 @@ The goal is to improve my problem-solving skills, coding efficiency, and prepare
 🚀 Focus on optimal solutions with time & space complexity analysis.
 
 🔖 Organized by topic and difficulty level. Tried for different types of test cases
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+<!---LeetCode Topics End-->
