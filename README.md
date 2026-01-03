@@ -19,6 +19,7 @@ The goal is to improve my problem-solving skills, coding efficiency, and prepare
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Two Pointers
 |  |
@@ -29,4 +30,8 @@ The goal is to improve my problem-solving skills, coding efficiency, and prepare
 |  |
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
