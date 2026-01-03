@@ -34,4 +34,8 @@ The goal is to improve my problem-solving skills, coding efficiency, and prepare
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 <!---LeetCode Topics End-->
