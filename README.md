@@ -21,6 +21,7 @@ The goal is to improve my problem-solving skills, coding efficiency, and prepare
 | [0027-remove-element](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1390-four-divisors](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/1390-four-divisors) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,4 +39,8 @@ The goal is to improve my problem-solving skills, coding efficiency, and prepare
 |  |
 | ------- |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+## Math
+|  |
+| ------- |
+| [1390-four-divisors](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/1390-four-divisors) |
 <!---LeetCode Topics End-->
