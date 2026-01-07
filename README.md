@@ -69,4 +69,16 @@ The goal is to improve my problem-solving skills, coding efficiency, and prepare
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0042-trapping-rain-water) |
+## Tree
+|  |
+| ------- |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 <!---LeetCode Topics End-->
