@@ -24,6 +24,7 @@ The goal is to improve my problem-solving skills, coding efficiency, and prepare
 | [0035-search-insert-position](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1390-four-divisors](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/1390-four-divisors) |
 ## Two Pointers
@@ -31,6 +32,7 @@ The goal is to improve my problem-solving skills, coding efficiency, and prepare
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0042-trapping-rain-water) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +47,7 @@ The goal is to improve my problem-solving skills, coding efficiency, and prepare
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Math
 |  |
@@ -58,4 +61,12 @@ The goal is to improve my problem-solving skills, coding efficiency, and prepare
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0039-combination-sum) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
