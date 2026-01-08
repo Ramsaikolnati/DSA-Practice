@@ -36,6 +36,7 @@ The goal is to improve my problem-solving skills, coding efficiency, and prepare
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0036-valid-sudoku) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Binary Search
@@ -52,6 +53,7 @@ The goal is to improve my problem-solving skills, coding efficiency, and prepare
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [1390-four-divisors](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/1390-four-divisors) |
 ## Matrix
 |  |
@@ -81,4 +83,8 @@ The goal is to improve my problem-solving skills, coding efficiency, and prepare
 |  |
 | ------- |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
