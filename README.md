@@ -37,6 +37,7 @@ The goal is to improve my problem-solving skills, coding efficiency, and prepare
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0036-valid-sudoku) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Binary Search
@@ -54,6 +55,7 @@ The goal is to improve my problem-solving skills, coding efficiency, and prepare
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [1390-four-divisors](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/1390-four-divisors) |
 ## Matrix
 |  |
@@ -87,4 +89,5 @@ The goal is to improve my problem-solving skills, coding efficiency, and prepare
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
