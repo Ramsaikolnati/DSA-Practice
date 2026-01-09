@@ -51,6 +51,7 @@ The goal is to improve my problem-solving skills, coding efficiency, and prepare
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -68,6 +69,7 @@ The goal is to improve my problem-solving skills, coding efficiency, and prepare
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0039-combination-sum) |
 ## Stack
 |  |
@@ -95,4 +97,5 @@ The goal is to improve my problem-solving skills, coding efficiency, and prepare
 | [0012-integer-to-roman](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
