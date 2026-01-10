@@ -55,6 +55,7 @@ The goal is to improve my problem-solving skills, coding efficiency, and prepare
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0042-trapping-rain-water) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Math
@@ -102,6 +103,7 @@ The goal is to improve my problem-solving skills, coding efficiency, and prepare
 | [0022-generate-parentheses](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 ## String Matching
 |  |
 | ------- |
