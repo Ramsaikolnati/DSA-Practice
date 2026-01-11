@@ -25,6 +25,7 @@ The goal is to improve my problem-solving skills, coding efficiency, and prepare
 | [0036-valid-sudoku](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1390-four-divisors](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -56,6 +57,7 @@ The goal is to improve my problem-solving skills, coding efficiency, and prepare
 | [0022-generate-parentheses](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -69,6 +71,7 @@ The goal is to improve my problem-solving skills, coding efficiency, and prepare
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0036-valid-sudoku) |
+| [0085-maximal-rectangle](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0085-maximal-rectangle) |
 ## Backtracking
 |  |
 | ------- |
@@ -80,10 +83,12 @@ The goal is to improve my problem-solving skills, coding efficiency, and prepare
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0085-maximal-rectangle) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0085-maximal-rectangle) |
 ## Tree
 |  |
 | ------- |
