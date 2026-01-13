@@ -51,6 +51,7 @@ The goal is to improve my problem-solving skills, coding efficiency, and prepare
 | [0033-search-in-rotated-sorted-array](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0069-sqrtx) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -66,6 +67,7 @@ The goal is to improve my problem-solving skills, coding efficiency, and prepare
 | ------- |
 | [0012-integer-to-roman](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0069-sqrtx) |
 | [1390-four-divisors](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/1390-four-divisors) |
 ## Matrix
 |  |
