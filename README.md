@@ -29,6 +29,7 @@ The goal is to improve my problem-solving skills, coding efficiency, and prepare
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1390-four-divisors](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,6 +70,7 @@ The goal is to improve my problem-solving skills, coding efficiency, and prepare
 | [0013-roman-to-integer](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0069-sqrtx) |
 | [1390-four-divisors](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/1390-four-divisors) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Matrix
 |  |
 | ------- |
@@ -122,4 +124,8 @@ The goal is to improve my problem-solving skills, coding efficiency, and prepare
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Geometry
+|  |
+| ------- |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 <!---LeetCode Topics End-->
