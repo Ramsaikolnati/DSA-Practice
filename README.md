@@ -25,6 +25,7 @@ The goal is to improve my problem-solving skills, coding efficiency, and prepare
 | [0036-valid-sudoku](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0085-maximal-rectangle](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1390-four-divisors](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/1390-four-divisors) |
@@ -46,6 +47,7 @@ The goal is to improve my problem-solving skills, coding efficiency, and prepare
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Binary Search
 |  |
@@ -116,6 +118,7 @@ The goal is to improve my problem-solving skills, coding efficiency, and prepare
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 ## String Matching
 |  |
@@ -132,6 +135,7 @@ The goal is to improve my problem-solving skills, coding efficiency, and prepare
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0049-group-anagrams) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Enumeration
 |  |
