@@ -32,6 +32,7 @@ The goal is to improve my problem-solving skills, coding efficiency, and prepare
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3640-trionic-array-ii](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/3640-trionic-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -66,6 +67,7 @@ The goal is to improve my problem-solving skills, coding efficiency, and prepare
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [3640-trionic-array-ii](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/3640-trionic-array-ii) |
 ## Math
 |  |
 | ------- |
