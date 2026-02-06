@@ -32,6 +32,7 @@ The goal is to improve my problem-solving skills, coding efficiency, and prepare
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-trionic-array-ii](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/3640-trionic-array-ii) |
 ## Two Pointers
 |  |
@@ -130,6 +131,7 @@ The goal is to improve my problem-solving skills, coding efficiency, and prepare
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/3634-minimum-removals-to-balance-array) |
 ## Geometry
 |  |
 | ------- |
@@ -139,6 +141,7 @@ The goal is to improve my problem-solving skills, coding efficiency, and prepare
 | ------- |
 | [0049-group-anagrams](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0049-group-anagrams) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/3634-minimum-removals-to-balance-array) |
 ## Enumeration
 |  |
 | ------- |
