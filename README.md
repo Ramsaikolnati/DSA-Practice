@@ -51,6 +51,7 @@ The goal is to improve my problem-solving skills, coding efficiency, and prepare
 | [0036-valid-sudoku](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [3714-longest-balanced-substring-ii](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/3714-longest-balanced-substring-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -123,6 +124,7 @@ The goal is to improve my problem-solving skills, coding efficiency, and prepare
 | [0032-longest-valid-parentheses](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [3714-longest-balanced-substring-ii](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/3714-longest-balanced-substring-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -146,4 +148,8 @@ The goal is to improve my problem-solving skills, coding efficiency, and prepare
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3714-longest-balanced-substring-ii](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/3714-longest-balanced-substring-ii) |
 <!---LeetCode Topics End-->
