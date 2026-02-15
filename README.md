@@ -75,6 +75,7 @@ The goal is to improve my problem-solving skills, coding efficiency, and prepare
 | ------- |
 | [0012-integer-to-roman](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0069-sqrtx) |
 | [1390-four-divisors](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/1390-four-divisors) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -123,6 +124,7 @@ The goal is to improve my problem-solving skills, coding efficiency, and prepare
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0067-add-binary) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [3714-longest-balanced-substring-ii](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/3714-longest-balanced-substring-ii) |
 ## String Matching
@@ -152,4 +154,12 @@ The goal is to improve my problem-solving skills, coding efficiency, and prepare
 |  |
 | ------- |
 | [3714-longest-balanced-substring-ii](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/3714-longest-balanced-substring-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
