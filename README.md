@@ -127,6 +127,7 @@ The goal is to improve my problem-solving skills, coding efficiency, and prepare
 | [0049-group-anagrams](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0067-add-binary) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0761-special-binary-string](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0761-special-binary-string) |
 | [3714-longest-balanced-substring-ii](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/3714-longest-balanced-substring-ii) |
 ## String Matching
 |  |
@@ -145,6 +146,7 @@ The goal is to improve my problem-solving skills, coding efficiency, and prepare
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0049-group-anagrams) |
+| [0761-special-binary-string](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0761-special-binary-string) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/3634-minimum-removals-to-balance-array) |
 ## Enumeration
@@ -169,4 +171,5 @@ The goal is to improve my problem-solving skills, coding efficiency, and prepare
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0761-special-binary-string) |
 <!---LeetCode Topics End-->
