@@ -51,6 +51,7 @@ The goal is to improve my problem-solving skills, coding efficiency, and prepare
 | [0036-valid-sudoku](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3714-longest-balanced-substring-ii](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/3714-longest-balanced-substring-ii) |
 ## Binary Search
 |  |
@@ -128,6 +129,7 @@ The goal is to improve my problem-solving skills, coding efficiency, and prepare
 | [0067-add-binary](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0067-add-binary) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0761-special-binary-string](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0761-special-binary-string) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3714-longest-balanced-substring-ii](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/3714-longest-balanced-substring-ii) |
 ## String Matching
 |  |
@@ -163,6 +165,7 @@ The goal is to improve my problem-solving skills, coding efficiency, and prepare
 | [0067-add-binary](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0401-binary-watch) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Simulation
 |  |
 | ------- |
@@ -172,4 +175,12 @@ The goal is to improve my problem-solving skills, coding efficiency, and prepare
 | ------- |
 | [0190-reverse-bits](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0190-reverse-bits) |
 | [0761-special-binary-string](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/0761-special-binary-string) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
