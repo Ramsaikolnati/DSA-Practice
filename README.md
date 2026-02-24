@@ -106,14 +106,17 @@ The goal is to improve my problem-solving skills, coding efficiency, and prepare
 ## Tree
 |  |
 | ------- |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Ramsaikolnati/DSA-Practice/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## String
 |  |
